@@ -63,12 +63,14 @@ agent_stack/
 
 ## Research Notes
 
-- 1 national invention patent under review
+- 1 national invention patent 
 - 1 software copyright
+- EIECS EI paper ,first author
+- ISRIMT EI paper ,first author
 - ICSP EI paper, second author
-- ICDE CCF-A paper under submission, student first author
-- TCSVT SCI Q1 paper under submission, student second author
-
+- CVPR CCF-A paper under submission,  second author
+- TCSVT SCI Q1 paper under submission,  fifth author
+- 《计算机研究与发展》CCF-A Chinese paper under submission,second author
 ## GitHub Dashboard
 
 <p align="center">
