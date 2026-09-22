@@ -71,26 +71,6 @@ agent_stack/
 - CVPR CCF-A paper under submission,  second author
 - TCSVT SCI Q1 paper under submission,  fifth author
 - 《计算机研究与发展》CCF-A Chinese paper under submission,second author
-## GitHub Dashboard
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xiao666690&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiao666690&layout=compact&theme=transparent&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xiao666690&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Map" alt="GitHub Activity Graph" />
-</p>
-
-## Current Quest
-
-```text
-Make Agents more reliable:
-  1. retrieve stronger evidence
-  2. call tools with cleaner boundaries
-  3. stream progress humans can trust
-  4. protect private knowledge and permissions
-```
 
 ## Find Me
 
