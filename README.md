@@ -15,7 +15,7 @@
 
 ## Hello, World
 
-I am Xiao Weiqi, a Cybersecurity undergraduate interested in AI Agent systems, RAG, and graph learning.
+I am Weiqi Xiao, a Cybersecurity undergraduate interested in AI Agent systems, RAG, time serise forcasting and graph learning.
 
 My favorite kind of project is the one where an LLM stops being just a chat box and starts becoming a dependable worker: it can plan, call tools, remember preferences, stream progress, check evidence, and say "I do not know enough yet" when the knowledge boundary is reached.
 
